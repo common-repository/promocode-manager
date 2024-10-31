@@ -1,0 +1,22 @@
+.column-PartnerID{
+    width:15%;
+}
+.column-Active{
+    width:15%;
+}
+.column-Description{
+    width:35%;
+}
+.column-ShortCodeExample{
+    width:40%;
+}
+#col-left .regular-text{
+    width:19em;
+}
+
+.help-1{
+    width:30%;
+}
+.help-2{
+    width:45%;
+}
